@@ -35,9 +35,22 @@
  
  <img src='https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465'/> <img src='https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465'/> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRACHIP09&theme=holi-theme)](https://git.io/streak-stats)
-
+ <div align='center' >
   
+  ### <h2 align="center">Github Statistics 📈</h2>
+  ![Prachi's github activity graph](https://activity-graph.herokuapp.com/graph?username=PRACHIP09&theme=react-dark&hide_border=true)
+  
+   ### <h3 align="center">General Statistics</h3>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRACHIP09&theme=github_dark&show_icons=true&hide_border=true&card_width=600)
+  
+  ### <h3 align="center">Streak Statistics </h2>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRACHIP09&theme=holi-theme&hide_border=true&card_width=600)](https://git.io/streak-stats)
+  
+  
+  ### <h3 align="center">Most Used Language</h3>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRACHIP09&layout=compact&theme=github_dark&hide_border=true&card_width=600)](https://github.com/PRACHIP09/github-readme-stats)
+  
+ <div/>
 
          
 
