@@ -2,7 +2,7 @@
 
 
   - 🔭 I’m currently working on **Web Development & Machine Learning** 
-  - 🌱 I’m currently learning **Machine Learning**
+  - 🌱 I’m currently enhancing **Machine Learning Skills** 
   - 👯 I’m looking to collaborate on **Open Source**
   - 📫 How to reach me 
      - Linkedin:**https://www.linkedin.com/in/prachipatel09/**
