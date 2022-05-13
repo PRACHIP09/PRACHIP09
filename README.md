@@ -8,7 +8,10 @@
      - Linkedin:**https://www.linkedin.com/in/prachipatel09/**
      - Gmail:**prachipp999@gmail.com**
   - 🎓 Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.
-  
+  - 🥈 1st runner up at Codebash -- competitive programming event .
+  - 🥈 1st runner up at Unscript Rookee's 2k22 24hrs national level hackathon.
+  - 🥇 BEST PITCH at LOC 24hrs National Level hackathon.  
+  - 🥈 2nd runner up at DJ Unicode 72hrs hackathon .
 ### <h2 align="center">🛠️ Technical Skill Set</h2>
  <h4>Languages :</h4> 
   
@@ -37,8 +40,8 @@
 
  <div align='center' >
   
-  ### <h2 align="center">Github Statistics 📈</h2>
-  ![Prachi's github activity graph](https://activity-graph.herokuapp.com/graph?username=PRACHIP09&theme=react-dark&hide_border=true)
+ <!-- ### <h2 align="center">Github Statistics 📈</h2>-->
+  <!--![Prachi's github activity graph](https://activity-graph.herokuapp.com/graph?username=PRACHIP09&theme=react-dark&hide_border=true)-->
   
    ### <h3 align="center">General Statistics</h3>
   ![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRACHIP09&theme=github_dark&show_icons=true&hide_border=true&card_width=600)
