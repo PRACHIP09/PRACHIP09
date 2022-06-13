@@ -1,4 +1,4 @@
-<h1 align="center"> Hello Prachi Patel here <img src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" width="45vh" height:"45vh"/> </h1>
+<h1 align="center"> Hello Prachi Patel here <img src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" width="15px" height:"15px"/> </h1>
 
 
   - 🔭 I’m currently working on **Web Development & Machine Learning** 
