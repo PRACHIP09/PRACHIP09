@@ -8,6 +8,8 @@
      - Linkedin:**https://www.linkedin.com/in/prachipatel09/**
      - Gmail:**prachipp999@gmail.com**
   - 🎓 Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.
+  - 🥇 CODE FOR GOOD '22 Winner
+  - 🥇 17th Aavishkar Mumbai Finalist
   - 🥈 1st runner up at Codebash -- competitive programming event .
   - 🥈 1st runner up at Unscript Rookee's 2k22 24hrs national level hackathon.
   - 🥇 BEST PITCH at LOC 24hrs National Level hackathon.  
