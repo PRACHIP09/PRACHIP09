@@ -8,6 +8,7 @@
      - Linkedin:**https://www.linkedin.com/in/prachipatel09/**
      - Gmail:**prachipp999@gmail.com**
   - 🎓 Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.
+  - 🏆 Finalist at Google Girl Hackathon 2023
   - 🥇 CODE FOR GOOD '22 Winner
   - 🥇 17th Aavishkar Mumbai Finalist
   - 🥈 1st runner up at Codebash -- competitive programming event .
