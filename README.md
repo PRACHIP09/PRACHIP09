@@ -4,7 +4,7 @@
   - 🔭 I’m currently working on **Web Development & Machine Learning** 
   - 🌱 I’m an active Software Developer Freelancer 
   - 👯 Happily collaborating on **Open Source**
-  - 🎓 Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.
+  - 🎓 Pursuing Masters at University of Southern California
   - 🏆 Finalist at Google Girl Hackathon 2023
   - 🏆 Finalist at VOIS International Hackathon 2024
   - 🥇 CODE FOR GOOD '22 Winner
