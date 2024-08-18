@@ -41,8 +41,9 @@
  <!-- ### <h2 align="center">Github Statistics 📈</h2>-->
   <!--![Prachi's github activity graph](https://activity-graph.herokuapp.com/graph?username=PRACHIP09&theme=react-dark&hide_border=true)-->
   
-   ### <h3 align="center">General Statistics</h3>
+ <!--  ### <h3 align="center">General Statistics</h3>
   ![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRACHIP09&theme=github_dark&show_icons=true&hide_border=true&card_width=600)
+  -->
   
   ### <h3 align="center">Streak Statistics </h2>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRACHIP09&theme=holi-theme&hide_border=true&card_width=600)](https://git.io/streak-stats)
