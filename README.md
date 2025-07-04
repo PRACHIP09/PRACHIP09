@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/prachip09099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dishantzaveri" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prachipatel09/" target="https://www.linkedin.com/in/dishant-zaveri-4301471b9/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dishant-zaveri-4301471b9" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_.prachiii09._/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishant_zaveri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages , Softwares , Tools , Services and Frameworks:</h3>
