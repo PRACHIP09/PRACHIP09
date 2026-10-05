@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Prachi Patel <img src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" width="40px" alt="wave"/></h1>
 
 <p align="center">
-  <b>MS Computer Science @ University of Southern California</b><br/>
-  Full-stack developer · Machine learning · Web3 · Robotics<br/>
-  10+ hackathon wins &amp; finals, including Google Girl Hackathon and JPMorgan Code for Good
+  <b>Engineering Analyst @ Goldman Sachs</b> · <b>MS Computer Science @ USC '26</b><br/>
+  Full-stack · AI / ML · Web3 · Ex-SDE Intern @ JPMorgan Chase<br/>
+  JPMC Code for Good '22 winner · Google Girl Hackathon '23 finalist · TIAA GenAI '23
 </p>
 
 <p align="center">
@@ -15,10 +15,31 @@
 
 ### 👩‍💻 About me
 
-- 🎓 Pursuing a **Master's in Computer Science at USC** (motion planning, robotics, ML)
-- 🔭 I build **full-stack web apps**, **ML-powered products**, and **Web3 / blockchain** tools
-- 💼 Freelance software developer who enjoys turning hackathon ideas into real products
-- 👯 Happy to collaborate on **open source**
+- 💼 **Engineering Analyst at Goldman Sachs**, Asset & Wealth Management (Dallas, TX)
+- 🎓 **MS in Computer Science, University of Southern California** (2024–2026) · B.Tech Computer Engineering, DJ Sanghvi College of Engineering (2020–2024)
+- 🔭 Full-stack developer (**JavaScript, React, Node.js, AWS, Docker**) with a background in **AI/ML** and **blockchain**
+- 🚀 Built **8+ live web apps** for clients, startups and non-profits
+- 🌱 Led tech initiatives on **water quality** and **sustainable agriculture**
+- ✨ Currently exploring **Generative AI**, deep learning and NLP
+
+---
+
+### 🧑‍💼 Experience
+
+| Role | Organization | When |
+|---|---|---|
+| **Engineering Analyst** | Goldman Sachs · Asset & Wealth Management | Jul 2026 – present |
+| Software Developer | Statewide California Earthquake Center (SCEC) | Oct 2025 – May 2026 |
+| Engineering Analyst (Summer) | Goldman Sachs · Asset & Wealth Management | Jun – Aug 2025 |
+| Web & SEO Developer | Keck Medicine of USC | Nov 2024 – May 2025 |
+| Software Developer | ParkIt.biz | Feb – Jul 2024 |
+| Software Developer (Freelance) | Upwork | Oct 2023 – May 2024 |
+| Research Intern | IIT Patna | May 2023 – Apr 2024 |
+| Software Developer Intern | JPMorgan Chase & Co. | Jun – Aug 2023 |
+| Core Head · Frontend Mentor · Developer | DJ Unicode | Aug 2021 – Jun 2024 |
+| Full Stack Developer | iSummation Technologies | Nov 2021 – Apr 2022 |
+| ML Developer | DJS Synapse | Sep 2021 – Sep 2022 |
+| Tech Developer | Google Developer Student Club, DJSCE | Oct 2021 – Oct 2022 |
 
 ---
 
@@ -41,7 +62,7 @@
 |---|---|
 | 🥇 **Winner**: JPMorgan Chase Code for Good 2022 | 🏆 **Finalist**: Google Girl Hackathon 2023 |
 | 🏆 **Finalist**: VOIS International Hackathon 2024 | 🏆 **Finalist**: 17th Aavishkar Mumbai |
-| 🥇 DJASCII 2024 | 🥇 TIAA Retirement Industry Hackathon |
+| 🥇 DJASCII 2024 | 🥇 TIAA Retirement Industry GenAI Hackathon 2023 |
 | 🥈 **1st runner-up**: Unscript Rookies 2k22 (24-hr national hackathon) | 🥈 **1st runner-up**: Codebash competitive programming |
 | 🎤 **Best Pitch**: LOC 24-hr national hackathon | 🥉 **2nd runner-up**: DJ Unicode 72-hr hackathon |
 
